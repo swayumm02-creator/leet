@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/swayumm02-creator/leet/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/swayumm02-creator/leet/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/swayumm02-creator/leet/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/swayumm02-creator/leet/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/swayumm02-creator/leet/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/swayumm02-creator/leet/tree/master/0060-permutation-sequence) |
 ## String
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/swayumm02-creator/leet/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/swayumm02-creator/leet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/swayumm02-creator/leet/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/swayumm02-creator/leet/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/swayumm02-creator/leet/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
 ## Trie
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/swayumm02-creator/leet/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
