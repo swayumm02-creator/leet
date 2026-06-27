@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/swayumm02-creator/leet/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/swayumm02-creator/leet/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/swayumm02-creator/leet/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/swayumm02-creator/leet/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
 ## Trie
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/swayumm02-creator/leet/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/swayumm02-creator/leet/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/swayumm02-creator/leet/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/swayumm02-creator/leet/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/swayumm02-creator/leet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/swayumm02-creator/leet/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/swayumm02-creator/leet/tree/master/0078-subsets) |
 ## String Matching
 |  |
 | ------- |
