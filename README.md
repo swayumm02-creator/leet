@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/swayumm02-creator/leet/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/swayumm02-creator/leet/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/swayumm02-creator/leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swayumm02-creator/leet/tree/master/0018-4sum) |
 | [0057-insert-interval](https://github.com/swayumm02-creator/leet/tree/master/0057-insert-interval) |
+| [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
 ## Trie
 |  |
 | ------- |
@@ -81,8 +83,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swayumm02-creator/leet/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/swayumm02-creator/leet/tree/master/0044-wildcard-matching) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
