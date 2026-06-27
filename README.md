@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/swayumm02-creator/leet/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/swayumm02-creator/leet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/swayumm02-creator/leet/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/swayumm02-creator/leet/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/swayumm02-creator/leet/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/swayumm02-creator/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/swayumm02-creator/leet/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/swayumm02-creator/leet/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
