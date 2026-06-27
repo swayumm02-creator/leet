@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swayumm02-creator/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/swayumm02-creator/leet/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/swayumm02-creator/leet/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/swayumm02-creator/leet/tree/master/0065-valid-number) |
 ## Dynamic Programming
 |  |
 | ------- |
