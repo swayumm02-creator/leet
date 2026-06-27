@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/swayumm02-creator/leet/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/swayumm02-creator/leet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swayumm02-creator/leet/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/swayumm02-creator/leet/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
 ## Trie
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/swayumm02-creator/leet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/swayumm02-creator/leet/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/swayumm02-creator/leet/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
@@ -196,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/swayumm02-creator/leet/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/swayumm02-creator/leet/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/swayumm02-creator/leet/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
