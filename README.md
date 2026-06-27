@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/swayumm02-creator/leet/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/swayumm02-creator/leet/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/swayumm02-creator/leet/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/swayumm02-creator/leet/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/swayumm02-creator/leet/tree/master/0065-valid-number) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swayumm02-creator/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/swayumm02-creator/leet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/swayumm02-creator/leet/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/swayumm02-creator/leet/tree/master/0049-group-anagrams) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/swayumm02-creator/leet/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/swayumm02-creator/leet/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/swayumm02-creator/leet/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/swayumm02-creator/leet/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/swayumm02-creator/leet/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/swayumm02-creator/leet/tree/master/0085-maximal-rectangle) |
 ## Trie
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/swayumm02-creator/leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swayumm02-creator/leet/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/swayumm02-creator/leet/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/swayumm02-creator/leet/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
