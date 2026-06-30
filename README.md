@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/swayumm02-creator/leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/swayumm02-creator/leet/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/swayumm02-creator/leet/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/swayumm02-creator/leet/tree/master/0140-word-break-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/swayumm02-creator/leet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/swayumm02-creator/leet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/swayumm02-creator/leet/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/swayumm02-creator/leet/tree/master/0140-word-break-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/swayumm02-creator/leet/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/swayumm02-creator/leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/swayumm02-creator/leet/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/swayumm02-creator/leet/tree/master/0140-word-break-ii) |
 ## Array
 |  |
 | ------- |
@@ -142,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/swayumm02-creator/leet/tree/master/0090-subsets-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/swayumm02-creator/leet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/swayumm02-creator/leet/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/swayumm02-creator/leet/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/swayumm02-creator/leet/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/swayumm02-creator/leet/tree/master/0140-word-break-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/swayumm02-creator/leet/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/swayumm02-creator/leet/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/swayumm02-creator/leet/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/swayumm02-creator/leet/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -293,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/swayumm02-creator/leet/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/swayumm02-creator/leet/tree/master/0140-word-break-ii) |
 ## Depth-First Search
 |  |
 | ------- |
