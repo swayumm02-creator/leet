@@ -11,14 +11,13 @@ class Solution:
         dummy = ListNode(0, head)
         prev = dummy
         
-        # 1. Reach the node just before the sub-list to be reversed
+        
         for _ in range(left - 1):
             prev = prev.next
-            
-        # 2. Set pointers at the beginning of the sub-list
+
         curr = prev.next
         
-        # 3. Reverse the sub-list nodes one by one
+        
         for _ in range(right - left):
             temp = curr.next
             curr.next = temp.next
