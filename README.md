@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/swayumm02-creator/leet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/swayumm02-creator/leet/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/swayumm02-creator/leet/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/swayumm02-creator/leet/tree/master/0149-max-points-on-a-line) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/swayumm02-creator/leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/swayumm02-creator/leet/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/swayumm02-creator/leet/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/swayumm02-creator/leet/tree/master/0149-max-points-on-a-line) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/swayumm02-creator/leet/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/swayumm02-creator/leet/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/swayumm02-creator/leet/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/swayumm02-creator/leet/tree/master/0149-max-points-on-a-line) |
 ## Trie
 |  |
 | ------- |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/swayumm02-creator/leet/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/swayumm02-creator/leet/tree/master/0127-word-ladder) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/swayumm02-creator/leet/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
