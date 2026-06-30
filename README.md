@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/swayumm02-creator/leet/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/swayumm02-creator/leet/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/swayumm02-creator/leet/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/swayumm02-creator/leet/tree/master/0127-word-ladder) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/swayumm02-creator/leet/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/swayumm02-creator/leet/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/swayumm02-creator/leet/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/swayumm02-creator/leet/tree/master/0127-word-ladder) |
 ## Array
 |  |
 | ------- |
@@ -318,4 +320,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/swayumm02-creator/leet/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/swayumm02-creator/leet/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
